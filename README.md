@@ -11,16 +11,3 @@ Este es un mensaje editado completamente desde Github!!!
 
 
 
-
-
-
-
-
-
-
-
-print ("Hola Mundo")
-
-Ciclo(
-  Caca if caca == 0
-  pene)
